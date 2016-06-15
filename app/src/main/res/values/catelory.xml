@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="catelory_name">
+        <item>Income</item>
+        <item>Home</item>
+        <item>Cinema</item>
+        <item>Market</item>
+        <item>Restaurant</item>
+        <item>Travel</item>
+        <item>Baby</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="catelory_icon_name">
+        <item>ic_salary</item>
+        <item>ic_home</item>
+        <item>ic_cinema</item>
+        <item>ic_market</item>
+        <item>ic_restaurant</item>
+        <item>ic_travel</item>
+        <item>ic_baby</item>
+        <item>ic_others</item>
+    </string-array>
+</resources>

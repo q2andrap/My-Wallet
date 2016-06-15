@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Wallet Manager</string>
+    <string name="string_pick_date">Please pick date</string>
+    <string name="string_type_note">Please type note</string>
+    <string name="string_no_logged_data">No logged data.</string>
+    <string name="string_titleMain">Wallet Manager</string>
+    <string name="string_add_new">Add New</string>
+    <string name="string_edit_log">Edit</string>
+    <string name="string_summary">Summary</string>
+    <string name="string_income">Income</string>
+    <string name="string_expense">Expense</string>
+    <string name="string_balance">Balance</string>
+    <string name="string_summary_month_title">"Summary for "</string>
+    <string name="string_summary_date_title">"Date Summary\n"</string>
+    <string name="string_backpressed_exit">Press again to exit.</string>
+    <string name="string_passcode_title">Passcode Lock</string>
+    <string name="string_enter_passcode">Enter Your Passcode</string>
+    <string name="string_wrong_passcode">Your passcode not match.</string>
+    <string name="string_more_detail">"Detail for "</string>
+</resources>

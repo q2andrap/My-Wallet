@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#191784</color>
+    <color name="colorPrimaryDark">#1e1c76</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorIncome">#09e5aa</color>
+    <color name="colorExpense">#FF4081</color>
+    <color name="colorStroke">#eae8e8</color>
+    <color name="colorKeyBoardButtonPressed">#80ffffff</color>
+    <color name="colorKeyBoardButtonNormal">@android:color/transparent</color>
+</resources>
